@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lesson-kabzda-kak-prosto/static/css/main.9dd12696.chunk.css",
+    "main.js": "/lesson-kabzda-kak-prosto/static/js/main.8918432c.chunk.js",
+    "main.js.map": "/lesson-kabzda-kak-prosto/static/js/main.8918432c.chunk.js.map",
+    "runtime-main.js": "/lesson-kabzda-kak-prosto/static/js/runtime-main.1179b2a6.js",
+    "runtime-main.js.map": "/lesson-kabzda-kak-prosto/static/js/runtime-main.1179b2a6.js.map",
+    "static/js/2.61dd7eaa.chunk.js": "/lesson-kabzda-kak-prosto/static/js/2.61dd7eaa.chunk.js",
+    "static/js/2.61dd7eaa.chunk.js.map": "/lesson-kabzda-kak-prosto/static/js/2.61dd7eaa.chunk.js.map",
+    "static/js/3.8f496520.chunk.js": "/lesson-kabzda-kak-prosto/static/js/3.8f496520.chunk.js",
+    "static/js/3.8f496520.chunk.js.map": "/lesson-kabzda-kak-prosto/static/js/3.8f496520.chunk.js.map",
+    "index.html": "/lesson-kabzda-kak-prosto/index.html",
+    "static/css/main.9dd12696.chunk.css.map": "/lesson-kabzda-kak-prosto/static/css/main.9dd12696.chunk.css.map",
+    "static/js/2.61dd7eaa.chunk.js.LICENSE.txt": "/lesson-kabzda-kak-prosto/static/js/2.61dd7eaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1179b2a6.js",
+    "static/js/2.61dd7eaa.chunk.js",
+    "static/css/main.9dd12696.chunk.css",
+    "static/js/main.8918432c.chunk.js"
+  ]
+}
